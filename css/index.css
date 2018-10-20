@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+.indexBody{
+    margin-top: 50px;
+    height: 70vh
+}
+.indexImageCenter{
+    width: 100%;
+}
+.indexIcon{
+    width: 200px;
+    height: auto;
+}
+
+.indexFirstCol{
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.indexSecondCol{
+
+}
